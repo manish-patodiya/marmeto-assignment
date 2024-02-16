@@ -215,9 +215,8 @@ h5 {
 /* start media query */
 
 @media (max-width: 767px) {
-
-  .section-m1 {
-    padding: 10px 0;
+  .container {
+    padding: 10px;
   }
 
   #product {
